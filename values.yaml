@@ -3,7 +3,7 @@ global:
   ## URL that will be used to access ISD. MUST BE CHANGED
   ## Ensure that this URL is reachable from your browser. Either DNS name server record must exist or "hosts" file must be updated
   oesUI:
-    host: 313isd-ops-training.opsmx.net
+    host: 313isd.ops-training.opsmx.net
 
   ssl:
     enabled: false # Set to true if using "httpS" urls. TLS certificates must be generated for the above URL
