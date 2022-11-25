@@ -19,7 +19,7 @@ data:
         #set -x
 
         gitusermailid=user@mail.com
-        gitusername=phanikuarp
+        gitusername=phanikumarp
         gitpassword=encrypted:gittoken:gittoken
         org=phanikumarp
         repo_name=313standred
