@@ -8,7 +8,7 @@ metadata:
   name: oes-ui-ingress
 spec:
   rules:
-  - host: 313isd-ops-training.opsmx.net
+  - host: 313isd.ops-training.opsmx.net
     http:
       paths:
       - backend:
